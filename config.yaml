@@ -29,6 +29,8 @@ schema:
   mqtt_password: "str?"
   tcp_or_serial: list(Use a IP connection to CBUS|Use a serial connection to CBUS)
   cbus_connection_string: str
+  serial_baud: int?
+  serial_baud_default: 9600  
   use_tls_for_mqtt: bool?
   mqtt_broker_port: int(1,99999)?
   broker_ca: str?
