@@ -1,5 +1,5 @@
 {
-  "name": "cbus2mqtt",
-  "url": "https://github.com/MtSamsonite/ha-cbus2mqtt",
-  "maintainer": "https://github.com/MtSamsonite>"
+  "name": "cbus2mqtt-updated",
+  "url": "https://github.com/coloam/ha-cbus2mqtt-fixed",
+  "maintainer": "coloam"
 }
